@@ -1,0 +1,16 @@
+h2, .btn, span {
+    /*position: absolute;*/
+    /*left: 40%;*/
+}
+
+.btn, span {
+    margin: 10px;
+    font-weight: bolder;
+    /*position: absolute;*/
+    /*left: 40%;*/
+    /*top: 20%;*/
+}
+
+.btn {
+    border-radius: 5px;
+}
